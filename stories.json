@@ -1,0 +1,194 @@
+{
+ "also": [
+  "COP31: third 'final' text, replies by 06:00",
+  "Palmowski wins F1 Academy Race 2 in Las Vegas",
+  "OpenAI: AI rewrote chip designs, 14% PPA gain",
+  "Alcaraz leads Spain Davis Cup team for Bologna",
+  "VOTOMS reboot reviewed in Japan Times",
+  "Bitcoin steadies above $60,000",
+  "Arsenal held 2-2 by Newcastle",
+  "Chelsea thrashed 1-4 by Leeds at home",
+  "Dragon splashes down with ISS science",
+  "Visayas grid on yellow alert Sunday",
+  "Kenya election body faces court fights",
+  "SA MPs grill minister over ARV tender",
+  "Museveni warns religious leaders on preaching",
+  "Ghanaians react to 24-hour economy poll",
+  "Russia revives old demands in US talks",
+  "Rohingyas hail ICJ genocide verdict",
+  "Trump jokes Leavitt 'loves the baby more'",
+  "Pentagon to restrict US-Canada defense ties",
+  "Gaza families protest 'yellow line' strikes",
+  "Trump defends Xi, Putin ties after backlash",
+  "Tanker TORKEL burns at anchor off Hormuz",
+  "Antonelli fastest in Vegas qualifying",
+  "INEC deletes 1.6m invalid voter registrations",
+  "Brazil storm: 25,123 affected across 38 towns",
+  "England thrash All Blacks 37-12 in record win",
+  "Alcaraz beats Shelton, faces Zverev in final",
+  "FBI probes suspected hack of crime database",
+  "Jeweller Paolo Bulgari dies aged 89",
+  "Belgium braces for flight shutdown on Monday",
+  "Najib house-arrest minutes declassified",
+  "M4.5 quake off Sarangani, Philippines",
+  "Man City held 1-1 by Fulham"
+ ],
+ "date": "SUNDAY 22 NOVEMBER 2026",
+ "date_check": [
+  "Hormuz tankers hit 21 Nov",
+  "ICJ Myanmar ruling 19 Nov",
+  "Peru quake 6.8 was 20 Nov",
+  "Trump AI data-centre tax threat 20 Nov",
+  "US stocks crash was 20 Nov",
+  "Shenzhen summit 19-20 Nov"
+ ],
+ "day_label": "SUNDAY",
+ "featured": [
+  {
+   "icon": "leaf",
+   "lat": 36.9,
+   "lon": 30.7,
+   "n": 1,
+   "summary": "Nearly 200 delegations get a new text in Antalya; objections due by 03:00 GMT, votes from 06:00. Fossil-fuel wording and adaptation cash still divide the talks.",
+   "tag": "CLIMATE",
+   "title": "COP31 NEARS FINAL DEAL IN ANTALYA"
+  },
+  {
+   "icon": "chip",
+   "lat": 39.9,
+   "lon": 116.4,
+   "n": 2,
+   "summary": "Beijing vows countermeasures as the FCC bars China Mobile, China Telecom and China Unicom from US numbers.",
+   "tag": "ASIA",
+   "title": "CHINA OPPOSES US FCC BAN"
+  },
+  {
+   "icon": "missile",
+   "lat": 26.2,
+   "lon": 50.6,
+   "n": 3,
+   "summary": "Iran claims missile and drone strikes hit two US Patriot radars at al-Riffa and Awali bases in Bahrain.",
+   "tag": "MIDDLE EAST",
+   "title": "IRGC CLAIMS STRIKES ON US BASES"
+  },
+  {
+   "icon": "shield",
+   "lat": 31.5,
+   "lon": 34.5,
+   "n": 4,
+   "summary": "Hamas seeks urgent talks after an Israeli strike on a food truck in Gaza City kills three aid workers.",
+   "tag": "MIDDLE EAST",
+   "title": "GAZA TALKS AFTER AID WORKERS KILLED"
+  },
+  {
+   "icon": "target",
+   "lat": 50.45,
+   "lon": 30.52,
+   "n": 5,
+   "summary": "Zelensky calls strikes on the Crimean bridge a fair response to 109 Russian attacks on Ukraine's bridges.",
+   "tag": "EUROPE",
+   "title": "ZELENSKY: BRIDGE ATTACKS 'FAIR'"
+  },
+  {
+   "icon": "bat",
+   "lat": -41.3,
+   "lon": 174.8,
+   "n": 6,
+   "summary": "India post the highest Test total ever in New Zealand; Rahul 136, Pant 128, lead by 352 runs.",
+   "tag": "OCEANIA",
+   "title": "INDIA DECLARE 720/9 IN WELLINGTON"
+  },
+  {
+   "icon": "flame",
+   "lat": -6.1,
+   "lon": 106.15,
+   "n": 7,
+   "summary": "A candy factory blaze in Serang, Indonesia, leaves 39 missing and four hurt; fires still burn on Sunday.",
+   "tag": "ASIA",
+   "title": "39 MISSING AFTER FACTORY FIRE"
+  },
+  {
+   "icon": "deal",
+   "lat": -35.3,
+   "lon": 149.1,
+   "n": 8,
+   "summary": "Defence chief Marles says the US budget office is wrong that AUKUS sales would shrink the US submarine fleet.",
+   "tag": "OCEANIA",
+   "title": "AUSTRALIA REJECTS CBO WARNING"
+  },
+  {
+   "icon": "mic",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 9,
+   "summary": "Trump tells Fox News he wants a permanent deal to stop any future US president letting Iran get a nuclear bomb.",
+   "tag": "N. AMERICA",
+   "title": "TRUMP SEEKS 'PERMANENT DEAL' WITH IRAN"
+  },
+  {
+   "icon": "money",
+   "lat": 40.7,
+   "lon": -74.0,
+   "n": 10,
+   "summary": "Trump says he will work with Democrats to cap credit-card interest at 10%: 'The bill is ready.'",
+   "tag": "N. AMERICA",
+   "title": "TRUMP VOWS 10% CREDIT-CARD CAP"
+  },
+  {
+   "icon": "trophy",
+   "lat": 36.17,
+   "lon": -115.14,
+   "n": 11,
+   "summary": "The 50-lap Las Vegas Grand Prix starts at 04:00 GMT; Antonelli is fastest in qualifying but drops five places.",
+   "tag": "N. AMERICA",
+   "title": "LAS VEGAS GP STARTS, VERSTAPPEN ON POLE"
+  },
+  {
+   "icon": "ballot",
+   "lat": 9.06,
+   "lon": 7.49,
+   "n": 12,
+   "summary": "Nigeria's electoral body faces fraud fears for 2027 after AI photos are found on the voter roll; 1.6m entries deleted.",
+   "tag": "AFRICA",
+   "title": "NIGERIA VOTER REGISTER ROW"
+  },
+  {
+   "icon": "globe",
+   "lat": -29.0,
+   "lon": -53.8,
+   "n": 13,
+   "summary": "A supercell storm in Tupancireta kills five and injures 265; nearly 20,000 people are left homeless.",
+   "tag": "LATIN AMERICA",
+   "title": "BRAZIL STORM DEATH TOLL RISES TO FIVE"
+  }
+ ],
+ "regions": 8,
+ "sources": "Reuters, AP, AFP, Al Jazeera, Anadolu, The Straits Times, Dawn, Punch, Folha de S.Paulo, GMA News, Japan Times, PHIVOLCS, NASA, NST",
+ "timeline": [
+  [
+   "00:23",
+   "M4.5 quake off Sarangani"
+  ],
+  [
+   "01:19",
+   "Australia rejects CBO warning"
+  ],
+  [
+   "01:57",
+   "China opposes FCC ban"
+  ],
+  [
+   "02:33",
+   "India declare 720/9"
+  ],
+  [
+   "02:35",
+   "Zelensky: bridge attacks 'fair'"
+  ],
+  [
+   "04:00",
+   "Las Vegas GP starts"
+  ]
+ ],
+ "total_stories": 45
+}
